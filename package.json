@@ -1,0 +1,19 @@
+{
+  "name": "selenium-toolchain",
+  "version": "0.0.1",
+  "description": "A library of various custom tools for Selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbg119/Selenium-Toolchain.git"
+  },
+  "author": "Christian Bagdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbg119/Selenium-Toolchain/issues"
+  },
+  "homepage": "https://github.com/cbg119/Selenium-Toolchain#readme"
+}
